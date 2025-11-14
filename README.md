@@ -63,17 +63,20 @@ The dashboards include critical KPIs and analytical visuals such as:
 
 ### 📊 Excel Dashboards  
 <p align="center">
-  <img src="Images/Excel_Dashboard_Project(1).png" alt="Excel Dashboard 1" width="800" />
+  <img width="992" height="616" alt="Excel_Dashboard_Project(1)" src="https://github.com/user-attachments/assets/2f3d8909-0b5c-4044-9261-78a7bbfd4848" />
+
 </p>
 
 <p align="center">
-  <img src="Images/Excel_Dashboard_Project(2).png" alt="Excel Dashboard 2" width="800" />
+  <img width="1311" height="647" alt="Excel_Dashboard_Project(2)" src="https://github.com/user-attachments/assets/8a4ae673-331a-45c4-89e2-2515f1e2f34b" />
+
 </p>
 
 ### 📈 Power BI Dashboard  
 <p align="center">
-  <img src="Images/PowerBI_Manufacture_Analytics.png" alt="Power BI Dashboard" width="800" />
-</p>
+  <img width="1287" height="725" alt="PowerBI Manufacture Analytics" src="https://github.com/user-attachments/assets/ae9da797-44a5-46a0-b35e-d221ae14171c" />
+
+  </p>
 
 ---
 
@@ -112,8 +115,8 @@ It highlights how data-driven dashboards can enhance **decision-making**, **redu
 ---
 
 ## 👤 Author  
-**Madan N** — Data Analyst  
-📧 madan23112002@gmail.com  
+**Madan N** — Data Analyst   <br />
+📧 madan23112002@gmail.com  <br />
 💼 [LinkedIn](https://www.linkedin.com/in/madan-n-4a1a80327/)
 
 ---
